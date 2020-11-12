@@ -1,0 +1,5 @@
+C:\Users\4.D\source\repos\nikSimetic1Zadatak2\nikSimetic1Zadatak2\bin\Debug\nikSimetic1Zadatak2.exe.config
+C:\Users\4.D\source\repos\nikSimetic1Zadatak2\nikSimetic1Zadatak2\bin\Debug\nikSimetic1Zadatak2.exe
+C:\Users\4.D\source\repos\nikSimetic1Zadatak2\nikSimetic1Zadatak2\bin\Debug\nikSimetic1Zadatak2.pdb
+C:\Users\4.D\source\repos\nikSimetic1Zadatak2\nikSimetic1Zadatak2\obj\Debug\nikSimetic1Zadatak2.exe
+C:\Users\4.D\source\repos\nikSimetic1Zadatak2\nikSimetic1Zadatak2\obj\Debug\nikSimetic1Zadatak2.pdb
